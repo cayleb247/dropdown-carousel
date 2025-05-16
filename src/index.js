@@ -1,4 +1,7 @@
 import "./styles.css";
+import chessChatter from "./images/chess_chatter.png"
+import drugSift from "./images/drug_sift.png"
+import library from "./images/library.png"
 
 const dropdownContainers = document.querySelectorAll(".dropdown-container");
 const dropdownButtons = document.querySelectorAll(".dropdown-button");
